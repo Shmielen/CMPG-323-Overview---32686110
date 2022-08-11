@@ -1,4 +1,4 @@
-# <p style="color:blue"> CMPG-323-Overview---32686110 </p>
+# CMPG-323-Overview---32686110
 
 ## Repositories:
 
