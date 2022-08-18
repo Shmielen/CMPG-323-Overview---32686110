@@ -14,7 +14,9 @@
 The Branching Strategy that i will use is GitFlow as it is the most widely used branching strategy and is the most simple. <br>
 Since i am only a team of one, i dont find it beneficial to use a more complex branching strategy. <br>
 One downside to this choice is the fact the GitFlow doesnt allow for multiple versiona of code in production at the same time. <br>
-This shouldnt be a problem though becuase there will only be one person working on these projects.
+This shouldnt be a problem though becuase there will only be one person working on these projects. <br>
+![GitFlow](https://user-images.githubusercontent.com/102589675/185396361-c8c684f7-0346-40cb-9220-5c097256990e.JPG)
+
 
 ## .gitignore use
 .gitignore will be used to tell my local and remote repositories which file types should not be commited along with the rest of the project files <br>
