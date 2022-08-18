@@ -9,6 +9,7 @@
 5.CMPG-323-Project-5-32686110 - Reporting Project - Project 5 <br>
 
 ## Diagram for Repo Context
+![RepoContext](https://user-images.githubusercontent.com/102589675/185401923-63cf9fc0-ab5d-46cb-a63c-388821f28b30.JPG)
 
 ## Branching Strategy
 The Branching Strategy that i will use is GitFlow as it is the most widely used branching strategy and is the most simple. <br>
