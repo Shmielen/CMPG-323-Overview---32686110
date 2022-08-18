@@ -1,5 +1,5 @@
 # CMPG-323-Overview---32686110
-
+This Portfolio will consist of 5 main project submissions that will be divided into 5 seperate Repositories <br>
 ## Repositories:
 
 <a href ="https://github.com/Shmielen/CMPG-323-Overview---32686110.git"> 1.CMPG-323-Overview---32686110 </a> - Agile & Scrum - Project 1 <br>
@@ -16,7 +16,8 @@ The Branching Strategy that i will use is GitFlow as it is the most widely used 
 Since i am only a team of one, i dont find it beneficial to use a more complex branching strategy. <br>
 One downside to this choice is the fact the GitFlow doesnt allow for multiple versiona of code in production at the same time. <br>
 This shouldnt be a problem though becuase there will only be one person working on these projects. <br>
-![GitFlow](https://user-images.githubusercontent.com/102589675/185396361-c8c684f7-0346-40cb-9220-5c097256990e.JPG)
+![GitFlow](https://user-images.githubusercontent.com/102589675/185396361-c8c684f7-0346-40cb-9220-5c097256990e.JPG) <br>
+This is the same branching strategy that i will be using for each one of my repositories.
 
 
 ## .gitignore use
