@@ -3,7 +3,7 @@ This Portfolio will consist of 5 main project submissions that will be divided i
 ## Repositories:
 
 <a href ="https://github.com/Shmielen/CMPG-323-Overview---32686110.git"> 1.CMPG-323-Overview---32686110 </a> - Agile & Scrum - Project 1 <br>
-2.CMPG-323-Project-2-32686110 - API Development - Project 2 <br>
+<a href ="https://github.com/Shmielen/CMPG323-Project-2---32686110.git"> 2.CMPG-323-Project-2-32686110 - API Development - Project 2 <br>
 3.CMPG-323-Project-3-32686110 - Web App Project Testing Patterns - Project 3 <br>
 4.CMPG-323-Project-4-32686110 - RPA & Testing Patterns - Project 4 <br>
 5.CMPG-323-Project-5-32686110 - Reporting Project - Project 5 <br>
